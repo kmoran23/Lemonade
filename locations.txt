@@ -1,0 +1,23 @@
+Denver
+.44
+
+Los Angeles
+.45
+
+New York City
+.50
+
+Miami
+.37
+
+Boston
+.41
+
+Dallas
+.38
+
+Seattle
+.42
+
+Boulder
+.40
